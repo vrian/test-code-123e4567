@@ -9,6 +9,8 @@
 **CI/CD**
 * Docker, Github Actions
 
+~6 hours (4 backend, 1 mobile, 1 ci/cd)
+
 ---
 
 ## Run the Project
@@ -33,3 +35,5 @@ npx expo prebuild
 # Start and use Expo Go from iphone (SDK 54)
 npx expo start
 ```
+
+<img src="https://github.com/user-attachments/assets/c9c3674b-4258-429e-a6bb-7599b930c351" width="200" />
